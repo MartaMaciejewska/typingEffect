@@ -8,8 +8,8 @@ TypingEffect will help you to display an array of sentences in an attractive way
 Features
 ========
 
--Tailor-made solution for your messages - you can implement as many sentences as you need.
--Props validation with prop-types lib
+- Tailor-made solution for your messages - you can implement as many sentences as you need.
+- Props validation with prop-types lib
 - infinite-mode - you can choose your messages to be displayed in an infinite loop.
 
 Contribute
