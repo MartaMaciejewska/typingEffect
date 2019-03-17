@@ -1,0 +1,16 @@
+body{
+background-color: skyblue;
+color:white;
+font-size: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.container{
+  width:90vw;
+  align-items: center;
+  justify-content: center;
+  padding: 10px
+}
